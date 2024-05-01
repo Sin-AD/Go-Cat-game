@@ -1,0 +1,51 @@
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.exe
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.deps.json
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.runtimeconfig.json
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.runtimeconfig.dev.json
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.dll
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.pdb
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.AssemblyReference.cache
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.GenerateResource.cache
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.AssemblyInfoInputs.cache
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.AssemblyInfo.cs
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.CoreCompileInputs.cache
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.dll
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.pdb
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.genruntimeconfig.cache
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.Properties.Resources.resources
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.exe
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.deps.json
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.runtimeconfig.json
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.runtimeconfig.dev.json
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.dll
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.pdb
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.AssemblyReference.cache
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.Form1.resources
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.Properties.Resources.resources
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.GenerateResource.cache
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.AssemblyInfoInputs.cache
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.AssemblyInfo.cs
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.CoreCompileInputs.cache
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.dll
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.pdb
+C:\Users\Wifol\OneDrive\Рабочий стол\backup — копия\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.genruntimeconfig.cache
+C:\Users\Wifol\source\repos\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.Form1.resources
+G:\!!Курсач\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.exe
+G:\!!Курсач\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.deps.json
+G:\!!Курсач\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.runtimeconfig.json
+G:\!!Курсач\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.runtimeconfig.dev.json
+G:\!!Курсач\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.dll
+G:\!!Курсач\Kurs2\Kurs2\bin\Debug\netcoreapp3.1\Kurs2.pdb
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.AssemblyReference.cache
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.Form1.resources
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.Properties.Resources.resources
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.GenerateResource.cache
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.GeneratedMSBuildEditorConfig.editorconfig
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.AssemblyInfoInputs.cache
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.AssemblyInfo.cs
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.csproj.CoreCompileInputs.cache
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.dll
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.pdb
+G:\!!Курсач\Kurs2\Kurs2\obj\Debug\netcoreapp3.1\Kurs2.genruntimeconfig.cache
